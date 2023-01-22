@@ -7,15 +7,15 @@ Password  =         Admin
 
 
 Database file provide with this Setup
-first setup database and then install this this Software!!!!
+first setup database and then install  this Software!!!!
 
 Process To Setup Database
 
-1-install xamp (or any software tht provide phpmyadmin functionality)
+1-install xamp (or any software that provide phpmyadmin functionality)
 
 2-After installation firstly start Apache and MySQL server
 
-3-Open Browser And past this link in browser  "http://localhost/phpmyadmin/"
+3-Open Browser And paste  this link in browser  "http://localhost/phpmyadmin/"
 
 4- Create a new Database named as "covidcenter"
 
